@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="mp3" type="Native" />
       <mapping ext="caffemodel" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
