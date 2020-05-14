@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../YOLOv3-custom-training/image_detect.py'" />
-    <option name="defaultScopeName" value="File '.../YOLOv3-custom-training/image_detect.py'" />
-    <option name="SEARCH_SCOPE" value="File '.../YOLOv3-custom-training/image_detect.py'" />
+    <option name="customScope" value="Project 'myimage_to_speech'" />
+    <option name="defaultScopeName" value="Project 'myimage_to_speech'" />
+    <option name="SEARCH_SCOPE" value="Project 'myimage_to_speech'" />
   </component>
 </application>
