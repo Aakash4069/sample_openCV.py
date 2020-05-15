@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'myimage_to_speech'" />
-    <option name="defaultScopeName" value="Project 'myimage_to_speech'" />
-    <option name="SEARCH_SCOPE" value="Project 'myimage_to_speech'" />
+    <option name="customScope" value="File '.../yolo-master/real-time-audio.py'" />
+    <option name="defaultScopeName" value="File '.../yolo-master/real-time-audio.py'" />
+    <option name="SEARCH_SCOPE" value="File '.../yolo-master/real-time-audio.py'" />
   </component>
 </application>
